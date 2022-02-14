@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-require('omni-fe/src/index');
+require('omni-fe/lib/index');
