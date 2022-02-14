@@ -1,0 +1,17 @@
+{
+  "name": "create-omni",
+  "version": "1.0.0",
+  "description": "Create Omni-FE with no build configuration",
+  "keywords": [
+    "Omni"
+  ],
+  "main": "./index.js",
+  "author": "zhaobo <vkbo@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "omni-fe": "^1.0.5"
+  },
+  "bin": {
+    "create-omni": "./index.js"
+  }
+}
