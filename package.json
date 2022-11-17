@@ -9,7 +9,7 @@
   "author": "zhaobo <vkbo@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "omni-fe": "^1.0.5"
+    "omni-fe": "git+https://gitlab.com/thevkbo/admin-loca.git#v1.0.5.1"
   },
   "bin": {
     "create-omni": "./index.js"
